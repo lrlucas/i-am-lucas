@@ -1,3 +1,2 @@
-# i-am-lucas
-Captura de pantalla
-![alt text](screenshot.png)
+# Aplicacion para mostrar y organizar elementos en una pantalla
+![Pantalla Principal](screenshot.png)
